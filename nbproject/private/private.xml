@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/src/java/dal/product/ProductDBContext.java</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/web/views/admin/category/category.jsp</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/src/java/utils/Validate.java</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/src/java/controller/admin/product/AddProductsController.java</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/src/java/controller/admin/user/EditUserController.java</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/src/java/dal/DBContext.java</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/src/java/controller/product/ProductDetailController.java</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/web/views/product/product.jsp</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/web/views/product/productDetail.jsp</file>
+            <file>file:/D:/STUDY/SE5_FA22/SWP391/f-cosmetics-main-git26_22/f-cosmetics-main-git/web/views/admin/user/profile.jsp</file>
+        </group>
+    </open-files>
+</project-private>
